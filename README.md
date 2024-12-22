@@ -1,4 +1,7 @@
-# 3Dsellers Platform
+# 3Dsellers
+
+## Author:
+Ilan Bitan
 
 ## Overview
 The 3Dsellers platform is a comprehensive e-commerce solution designed to streamline the management of product listings and orders. Utilizing modern web technologies, the platform offers an intuitive user interface for seamless management of product operations.
@@ -34,15 +37,7 @@ The 3Dsellers platform is a comprehensive e-commerce solution designed to stream
   - **`app.module.ts`**
   - **`app.service.ts`**
   - **`main.ts`**
-
-## Setup and Installation
-Clone the repository and follow these steps:
-
-```bash
-git clone https://github.com/ilanBitan/3Dsellers.git
-cd 3Dsellers
-npm install
-
+  - 
 ## Start the development server for both frontend and backend:
 
 bash
@@ -55,5 +50,11 @@ node server.js
 
 Navigate to http://localhost:3000 to view and interact with the application.
 
-## Author:
-** Ilan Bitan
+## Setup and Installation
+Clone the repository and follow these steps:
+
+```bash
+git clone https://github.com/ilanBitan/3Dsellers.git
+cd 3Dsellers
+npm install
+
