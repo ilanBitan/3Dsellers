@@ -40,8 +40,6 @@ The 3Dsellers platform is a comprehensive e-commerce solution designed to stream
     
 ## Start the development server for both frontend and backend:
 
-bash
-Copy code
 # Frontend
 npm run dev
 
