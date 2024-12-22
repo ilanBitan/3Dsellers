@@ -15,7 +15,7 @@ The 3Dsellers platform is a comprehensive e-commerce solution designed to stream
   - **Node.js**: JavaScript runtime for building scalable network applications.
   - **NestJS**: A framework for building efficient and scalable server-side applications.
   - **Prisma**: ORM tool to handle database operations.
-  - 
+    
 ## Project Structure
 ### Frontend Components
 - **`App.vue`**: The main component that serves as the entry point for the Vue application. It integrates the main layout and routing.
