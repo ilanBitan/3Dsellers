@@ -37,7 +37,7 @@ The 3Dsellers platform is a comprehensive e-commerce solution designed to stream
   - **`app.module.ts`**
   - **`app.service.ts`**
   - **`main.ts`**
-  - 
+    
 ## Start the development server for both frontend and backend:
 
 bash
