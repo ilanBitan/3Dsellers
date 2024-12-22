@@ -6,6 +6,8 @@ Ilan Bitan
 ## Overview
 The 3Dsellers platform is a comprehensive e-commerce solution designed to streamline the management of product listings and orders. Utilizing modern web technologies, the platform offers an intuitive user interface for seamless management of product operations.
 
+![image](https://github.com/user-attachments/assets/d0bb444e-f864-4fca-be12-cb5ed8e35406)
+
 ## Technologies Used
 - **Frontend**:
   - **Vue 3**: Used for building a progressive and responsive user interface.
